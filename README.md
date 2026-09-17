@@ -5,8 +5,6 @@ CS undergrad building AI/ML systems end to end — from model training to shippe
 - 🎓 Third-year CSE undergraduate, Lloyd Institute of Engineering & Technology (AKTU), Greater Noida, India
 - 🏆 8x national hackathon winner
 - 📄 Peer-reviewed publication at **ICSCAI 2025** (Atlantis Press); manuscripts under review with *Discover Computing* (Springer)
-- ✈️ Selected for the **TEEP internship** at Da-Yeh University, Taiwan (Spatial AI & Design Track)
-- 🛰️ Currently building **iTantra** and **ORCA** for Smart India Hackathon 2026 (ISRO problem statements) — code stays private until the competition wraps
 
 ### Featured projects
 
