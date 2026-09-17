@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi, I'm Nandini 👋
 
-<!--
-**NANDINI502/NANDINI502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS undergrad building AI/ML systems end to end — from model training to shipped, deployed products.
 
-Here are some ideas to get you started:
+- 🎓 Third-year CSE undergraduate, Lloyd Institute of Engineering & Technology (AKTU), Greater Noida, India
+- 🏆 8x national hackathon winner
+- 📄 Peer-reviewed publication at **ICSCAI 2025** (Atlantis Press); manuscripts under review with *Discover Computing* (Springer)
+- ✈️ Selected for the **TEEP internship** at Da-Yeh University, Taiwan (Spatial AI & Design Track)
+- 🛰️ Currently building **iTantra** and **ORCA** for Smart India Hackathon 2026 (ISRO problem statements) — code stays private until the competition wraps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured projects
+
+| Project | What it is |
+|---|---|
+| [**SWAR**](https://github.com/NANDINI502/SWAR) | Real-time multimodal deepfake detector — ViT for video, Wav2Vec2 (fine-tuned on ASVspoof2019) for audio, with web, desktop, and live-monitoring interfaces |
+| [**Acadbot**](https://github.com/NANDINI502/Acadbot) | AI research assistant that generates complete IEEE-format LaTeX thesis papers with auto-generated diagrams and literature charts |
+| [**Ira**](https://github.com/NANDINI502/Ira) | Fully offline, multimodal local AI assistant — chat, voice, vision, and document Q&A, running entirely on-device via Ollama |
+| [**TransitOps**](https://github.com/NANDINI502/TransitOps) | End-to-end transport operations platform (fleet, dispatch, maintenance, analytics) built at a hackathon with a 3-person team |
+
+### Skills
+
+**Languages & Data:** Python, SQL/RDBMS, JavaScript
+**AI/ML:** PyTorch, HuggingFace Transformers, RAG, FAISS, LoRA/PEFT, Computer Vision, Speech (STT/TTS)
+**Backend & Web:** FastAPI, Flask, React, Node.js, Firebase
+**Tools:** Git, Docker, Vercel
+
+### Connect
+
+📫 nandinigupta1608@gmail.com
