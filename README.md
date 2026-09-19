@@ -30,7 +30,7 @@ CS undergrad (AKTU) who builds AI/ML systems end to end — from model training 
 | [**TransitOps**](https://github.com/NANDINI502/TransitOps) | End-to-end transport operations platform (fleet, dispatch, maintenance, analytics) built at a hackathon with a 3-person team |
 
 <details>
-<summary><b>🔬 SWAR — architecture at a glance</b></summary>
+<summary><b>🔬 SWAR — architecture at a glance (click to expand)</b></summary>
 <br>
 
 ```
@@ -63,11 +63,11 @@ CS undergrad (AKTU) who builds AI/ML systems end to end — from model training 
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NANDINI502&theme=algolia&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+![Hackathons](https://img.shields.io/badge/🏆_Hackathons-8x_National_Winner-FFD700?style=for-the-badge&labelColor=1a1a2e)
+![Publication](https://img.shields.io/badge/📄_ICSCAI_2025-Atlantis_Press-6C63FF?style=for-the-badge&labelColor=1a1a2e)
+![In Review](https://img.shields.io/badge/📝_Discover_Computing-Springer_(In_Review)-00C6A7?style=for-the-badge&labelColor=1a1a2e)
 
 </div>
-
-**8x** national hackathon winner · Peer-reviewed paper — **ICSCAI 2025** (Atlantis Press) · Manuscript in review — *Discover Computing* (Springer)
 
 <br>
 
@@ -82,12 +82,9 @@ CS undergrad (AKTU) who builds AI/ML systems end to end — from model training 
 
 <br>
 
-## 📊 Snapshot
+## 📊 Streaks
 
 <div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NANDINI502&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NANDINI502&theme=tokyonight" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NANDINI502&theme=tokyonight&hide_border=true" />
 
