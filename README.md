@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6A7&height=200&section=header&text=Nandini%20Gupta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Builder%20%C2%B7%20CS%20Undergrad%20%C2%B7%20Researcher&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nandini%20Gupta%20%F0%9F%9A%80&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Exploring%20the%20AI%2FML%20universe%2C%20one%20model%20at%20a%20time%20%F0%9F%8C%8C&descAlignY=58&descSize=16" width="100%"/>
 
 [![Email](https://img.shields.io/badge/Email-nandinigupta1608%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandinigupta1608@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/NANDINI502?style=for-the-badge&logo=github&color=181717&labelColor=black)](https://github.com/NANDINI502?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=NANDINI502&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)](https://github.com/NANDINI502)
+[![Profile Views](https://komarev.com/ghpvc/?username=NANDINI502&style=for-the-badge&color=302b63&label=PROFILE+VIEWS)](https://github.com/NANDINI502)
 
 </div>
 
-CS undergrad (AKTU) who builds AI/ML systems end to end — from model training to shipped, deployed products. 8x national hackathon winner, with a peer-reviewed paper at ICSCAI 2025 and a manuscript under review with *Discover Computing* (Springer).
+🛰️ CS undergrad (AKTU) building AI/ML systems that are out of this world — from training models in the lab to launching them into production. 8x national hackathon winner, with a peer-reviewed paper at ICSCAI 2025 and a manuscript orbiting review at *Discover Computing* (Springer).
 
 <br>
 
@@ -20,9 +20,9 @@ CS undergrad (AKTU) who builds AI/ML systems end to end — from model training 
 
 <br>
 
-## 🚀 Featured Projects
+## 🚀 Launched Projects
 
-| Project | What it is |
+| Mission | Payload |
 |---|---|
 | [**SWAR**](https://github.com/NANDINI502/SWAR) | Real-time multimodal deepfake detector — ViT for video, Wav2Vec2 (fine-tuned on ASVspoof2019) for audio, with web, desktop, and live-monitoring interfaces |
 | [**Acadbot**](https://github.com/NANDINI502/Acadbot) | AI research assistant that generates complete IEEE-format LaTeX thesis papers with auto-generated diagrams and literature charts |
@@ -30,7 +30,7 @@ CS undergrad (AKTU) who builds AI/ML systems end to end — from model training 
 | [**TransitOps**](https://github.com/NANDINI502/TransitOps) | End-to-end transport operations platform (fleet, dispatch, maintenance, analytics) built at a hackathon with a 3-person team |
 
 <details>
-<summary><b>🔬 SWAR — architecture at a glance (click to expand)</b></summary>
+<summary><b>🛸 SWAR — mission architecture (click to expand)</b></summary>
 <br>
 
 ```
@@ -59,13 +59,13 @@ CS undergrad (AKTU) who builds AI/ML systems end to end — from model training 
 
 <br>
 
-## 🏆 Trophy Room
+## 🌠 Mission Achievements
 
 <div align="center">
 
-![Hackathons](https://img.shields.io/badge/🏆_Hackathons-8x_National_Winner-FFD700?style=for-the-badge&labelColor=1a1a2e)
-![Publication](https://img.shields.io/badge/📄_ICSCAI_2025-Atlantis_Press-6C63FF?style=for-the-badge&labelColor=1a1a2e)
-![In Review](https://img.shields.io/badge/📝_Discover_Computing-Springer_(In_Review)-00C6A7?style=for-the-badge&labelColor=1a1a2e)
+![Hackathons](https://img.shields.io/badge/🏆_Hackathons-8x_National_Winner-FFD700?style=for-the-badge&labelColor=0f0c29)
+![Publication](https://img.shields.io/badge/📄_ICSCAI_2025-Atlantis_Press-302b63?style=for-the-badge&labelColor=0f0c29)
+![In Review](https://img.shields.io/badge/📝_Discover_Computing-Springer_(In_Review)-24243e?style=for-the-badge&labelColor=0f0c29)
 
 </div>
 
@@ -73,8 +73,8 @@ CS undergrad (AKTU) who builds AI/ML systems end to end — from model training 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6A7,100:6C63FF&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
-📧 [nandinigupta1608@gmail.com](mailto:nandinigupta1608@gmail.com)
+📡 [nandinigupta1608@gmail.com](mailto:nandinigupta1608@gmail.com)
 
 </div>
