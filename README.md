@@ -71,27 +71,6 @@ CS undergrad (AKTU) who builds AI/ML systems end to end — from model training 
 
 <br>
 
-## 🧊 Contribution Grid, in 3D
-
-<div align="center">
-
-<img width="90%" src="https://raw.githubusercontent.com/NANDINI502/NANDINI502/main/profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only" />
-<img width="90%" src="https://raw.githubusercontent.com/NANDINI502/NANDINI502/main/profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" />
-
-</div>
-
-<br>
-
-## 📊 Streaks
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NANDINI502&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6A7,100:6C63FF&height=120&section=footer" width="100%"/>
